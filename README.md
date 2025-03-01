@@ -1,5 +1,5 @@
 # DSA
-Common data structures &amp; algorithms in Python with implementations
+Common data structures &amp; algorithms in Python with explanations, implementations, and complexity analysis
 
 * Algorithmic Analysis
 * Array & Lists
@@ -19,4 +19,13 @@ Common data structures &amp; algorithms in Python with implementations
   - AVLs
   - Binary Heaps
   - Tries
+* Hash Table
+* Sorting
+  - Bubble Sort
+  - Selection Sort
+  - Insertion Sort
+  - Bucket Sort
+  - Merge Sort
+  - Quick Sort
+  - Heap Sort
 
