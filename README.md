@@ -28,4 +28,5 @@ Common data structures &amp; algorithms in Python with explanations, implementat
   - Merge Sort
   - Quick Sort
   - Heap Sort
+* Searching
 
